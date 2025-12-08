@@ -26,11 +26,11 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 
 # 📝 Publications 
 
-Research conducted during my graduate studies​:
+Research conducted during my graduate studies (ICT,CAS)​:
 
 - Ongoing...
 
-Research conducted during my undergraduate studies:
+Research conducted during my undergraduate studies (WHU):
 
 ---
 <div class='paper-box'><div class='paper-txt'>
