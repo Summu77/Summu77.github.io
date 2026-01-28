@@ -27,7 +27,15 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 
 Research conducted during my graduate studies (ICT,CAS)​:
 
-- Ongoing...
+<div class='paper-box'><div class='paper-txt'>
+<a href="https://arxiv.org/abs/2601.19210">Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
+<br>
+<strong>Sen Nie</strong>, Jie Zhang, Zhuo Wang, Shiguang Shan, Xilin Chen
+<br>
+<em>arXiv preprint arXiv:2601.19210</em>, 2026 (under review...)
+<br>
+CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rectifying spectral inconsistencies during test time.
+</div></div>
 
 Research conducted during my undergraduate studies (WHU):
 
