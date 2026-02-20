@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Sen Nie"
-description              : " "
+description              : "Sen Nie - Master's student at ICT, CAS, focusing on AI safety, adversarial robustness, and MLLM interpretability"
 repository               : "Summu77/sennie.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-LC9KDYMH2E  # GA4 Tracking ID
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -25,38 +25,9 @@ author:
   avatar           : "images/1.jpg"
   bio              : "ICT, CAS & State Key Laboratory of AI Safety"
   location         : "Beijing, China"
-  employer         : 
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKQnNncAAAAJ&hl=zh-CN"
   email            : "sen.nie@vipl.ict.ac.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "Summu77" # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  github           : "Summu77"
 
 
 # Reading Files

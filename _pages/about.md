@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), where I’m affiliated with the [Visual Information Processing and Learning (VIPL)](http://vipl.ict.ac.cn/en/index.html) research group. I’m also a student of the [State Key Laboratory of AI Safety](https://klais.ict.ac.cn). I’m honored to conduct my research under the supervision of Prof. [Jie Zhang](https://jiezhang010.github.io/), Prof. [Shiguang Shan (IEEE Fellow)](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en), and Prof. [Xilin Chen (IEEE Fellow)](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). Prior to joining CAS, I completed my undergraduate studies at the School of Cyber Science and Engineering, Wuhan University. My current research focuses on **AI safety**, investigating​ adversarial robustness, interpretability, and methods to mitigate hallucinations to build more reliable systems (MLLM, VLA, Agent). I’m eager to collaborate with like-minded researchers and peers. Looking forward to meaningful academic exchanges and potential cooperation!
 
 # 🔥 News
-
-[TODO]
 
 # 📝 Publications 
 
