@@ -16,9 +16,11 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 
 # 📝 Publications 
 
-Research conducted during my graduate studies (ICT,CAS)​:
+<div style="margin: 2em 0; padding: 1em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
+  <p style="margin: 0; font-size: 1.1em; text-align: center;">🔬 Exploring AI Safety and Robustness in Vision-Language Models</p>
+</div>
 
-<div class='paper-box'><div class='paper-txt'>
+<div class='paper-box' style="border-left: 4px solid #667eea;"><div class='paper-txt'>
 <a href="https://arxiv.org/abs/2601.19210">Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
 <br>
 <strong>Sen Nie</strong>, Jie Zhang, Zhuo Wang, Shiguang Shan, Xilin Chen
@@ -28,11 +30,8 @@ Research conducted during my graduate studies (ICT,CAS)​:
 CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rectifying spectral inconsistencies during test time.
 </div></div>
 
-Research conducted during my undergraduate studies (WHU):
-
----
-<div class='paper-box'><div class='paper-txt'>
-<a href="https://arxiv.org/abs/2511.20223">V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Attacks on LVLMs</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
+<div class='paper-box' style="border-left: 4px solid #764ba2;"><div class='paper-txt'>
+<a href="https://arxiv.org/abs/2511.20223">V-Attack: Targeting Disentangled Value Features for Controllable Adversarial Adversarial Attacks on LVLMs</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
 <br>
 <strong>Sen Nie</strong>, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen
 <br>
@@ -41,7 +40,7 @@ Research conducted during my undergraduate studies (WHU):
 A novel adversarial attack method that targets the value features in transformer-based vision-language models to achieve precise local semantic manipulation, outperforming SOTA by 36% in success rate.
 </div></div>
 
-<div class='paper-box'><div class='paper-txt'>
+<div class='paper-box' style="border-left: 4px solid #f093fb;"><div class='paper-txt'>
 <a href="https://arxiv.org/abs/2408.02891">Diverse Generation while Maintaining Semantic Coordination: A Diffusion-based Data Augmentation Method for Object Detection</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
 <br>
 <strong>Sen Nie</strong>, Zhuo Wang, Xinxin Wang, Kun He
@@ -51,7 +50,7 @@ A novel adversarial attack method that targets the value features in transformer
 A novel data augmentation method using pre-trained diffusion models, featuring a Category Affinity Matrix for diversity enhancement and Surrounding Region Alignment for semantic preservation.
 </div></div>
 
-<div class='paper-box'><div class='paper-txt'>
+<div class='paper-box' style="border-left: 4px solid #4facfe;"><div class='paper-txt'>
 <a href="https://kns.cnki.net/kcms2/article/abstract?v=tsj_6yYi9c4SxtY4UHv4KfTiHoMOlhjUVqTdjOO1WXJjAJBpHxP3-vs64P2yk8mpTzvCLkyM3povZW4wTxWhvtnGSHuUgGN1TOfPRL1YzI9yGpNkBZqRPgVmYKrQUztuMjxCrzVkfmXEVZ6d0hvEhAsP-x80Eku3u1RT6HNLIaiC3uQR72kRVA==&uniplatform=NZKPT&language=CHS">Automatic Pricing and Replenishment Decisions for Vegetable Products Based on Price Elasticity</a> (in Chinese) <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
 <br>
 <strong>Sen Nie</strong>, Xuanyin Pan, Haodong Qu
