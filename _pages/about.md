@@ -19,7 +19,7 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 # 📝 Publications 
 
 <div style="margin: 2em 0; padding: 1em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
-  <p style="margin: 0; font-size: 1.1em; text-align: center;">🔬 Exploring AI Safety and Robustness in Vision-Language Models</p>
+  <p style="margin: 0; font-size: 1.1em; text-align: center;">🔬 Exploring AI Safety in (Large) Vision-Language Models</p>
 </div>
 
 <div class='paper-box'><div class='paper-txt'>
