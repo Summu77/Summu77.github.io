@@ -15,6 +15,7 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 # 🔥 News
 
 - **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
+- **Jan 2026** 🥇 Our team **AIST_ICT** achieved **1st place** in the <a href="https://anti-bad.github.io/leaderboards/">Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models</a> (IEEE SaTML 2026)! Congratulations to all team members!
 
 # 📝 Publications 
 
