@@ -10,7 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), where I’m affiliated with the [Visual Information Processing and Learning (VIPL)](http://vipl.ict.ac.cn/en/index.html) research group. I’m also a student of the [State Key Laboratory of AI Safety](https://klais.ict.ac.cn). I’m honored to conduct my research under the supervision of Prof. [Jie Zhang](https://jiezhang010.github.io/), Prof. [Shiguang Shan (IEEE Fellow)](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en), and Prof. [Xilin Chen (IEEE Fellow)](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). My current research focuses on **AI safety**. I’m eager to collaborate with like-minded researchers and peers. Looking forward to meaningful academic exchanges and potential cooperation!
+Hi! 🥰 I'm Sen Nie (聂森), a first-year Master's student at the [Visual Information Processing and Learning (VIPL)](http://vipl.ict.ac.cn/en/index.html) group, ICT, CAS. I also conduct research at the [State Key Laboratory of AI Safety](https://klais.ict.ac.cn), under the supervision of Profs. [Jie Zhang](https://jiezhang010.github.io/), [Shiguang Shan (IEEE Fellow)](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en), and [Xilin Chen (IEEE Fellow)](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
+
+My research is currently focused on the frontier of **AI Safety**. I'm passionate about building robust and trustworthy AI systems and am always open to collaboration or a good academic chat!
 
 # 🔥 News
 
