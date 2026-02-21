@@ -14,6 +14,8 @@ Hi! 🥰 I’m Sen Nie (聂森), currently a first-year Master’s student at th
 
 # 🔥 News
 
+- **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
+
 # 📝 Publications 
 
 <div style="margin: 2em 0; padding: 1em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
@@ -35,7 +37,7 @@ CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rect
 <br>
 <strong>Sen Nie</strong>, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen
 <br>
-<em>arXiv preprint arXiv:2511.20223</em>, 2025 (under review...)
+<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2025
 <br>
 A novel adversarial attack method that targets the value features in transformer-based vision-language models to achieve precise local semantic manipulation, outperforming SOTA by 36% in success rate.
 </div></div>
