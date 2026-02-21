@@ -37,7 +37,7 @@ CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rect
 <br>
 <strong>Sen Nie</strong>, Jie Zhang, Jianxin Yan, Shiguang Shan, Xilin Chen
 <br>
-<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2025
+<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2026
 <br>
 A novel adversarial attack method that targets the value features in transformer-based vision-language models to achieve precise local semantic manipulation, outperforming SOTA by 36% in success rate.
 </div></div>
