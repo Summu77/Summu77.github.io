@@ -16,7 +16,7 @@ My research is currently focused on the frontier of **AI Safety**. I'm passionat
 
 # 🔥 News
 
-- **Mar 2026** 🎉 Our work **BIMM** (*Brain Inspired Masked Modeling for Video Representation Learning*) has been accepted by **TCSVT 2026**. The paper will be available soon.
+- **Mar 2026** 🎉 Our work **BIMM** has been accepted by **TCSVT 2026**.
 - **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
 - **Jan 2026** 🥇 Our team **AIST_ICT** achieved **1st place** in the <a href="https://anti-bad.github.io/leaderboards/">Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models</a> (IEEE SaTML 2026)! Congratulations to all team members!
 
