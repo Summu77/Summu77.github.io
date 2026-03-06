@@ -16,14 +16,13 @@ My research is currently focused on the frontier of **AI Safety**. I'm passionat
 
 # 🔥 News
 
+- **Mar 2026** 🎉 Our work **BIMM** (*Brain Inspired Masked Modeling for Video Representation Learning*) has been accepted by **TCSVT 2026**. The paper will be available soon.
 - **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
 - **Jan 2026** 🥇 Our team **AIST_ICT** achieved **1st place** in the <a href="https://anti-bad.github.io/leaderboards/">Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models</a> (IEEE SaTML 2026)! Congratulations to all team members!
 
 # 📝 Publications 
 
-<div style="margin: 2em 0; padding: 1em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; color: white;">
-  <p style="margin: 0; font-size: 1.1em; text-align: center;">🔬 Exploring AI Safety in (Large) Vision-Language Models</p>
-</div>
+<div class="pub-section-title">AI Safety in Vision-Language Models</div>
 
 <div class='paper-box'><div class='paper-txt'>
 <a href="https://arxiv.org/abs/2601.19210">Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
@@ -45,9 +44,7 @@ CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rect
 A novel adversarial attack method that targets the value features in transformer-based vision-language models to achieve precise local semantic manipulation, outperforming SOTA by 36% in success rate.
 </div></div>
 
-<div style="margin: 2em 0; padding: 1em; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 8px; color: #333;">
-  <p style="margin: 0; font-size: 1.1em; text-align: center;">📚 Others</p>
-</div>
+<div class="pub-section-title">Other Publications</div>
 
 <div class='paper-box'><div class='paper-txt'>
 <a href="https://arxiv.org/abs/2408.02891">Diverse Generation while Maintaining Semantic Coordination: A Diffusion-based Data Augmentation Method for Object Detection</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
