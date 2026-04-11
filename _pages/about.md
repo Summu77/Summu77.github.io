@@ -19,10 +19,9 @@ My research is currently focused on the frontier of **AI Safety**. I'm passionat
 - **Mar 2026** 🎉 Our work **BIMM** has been accepted by **TCSVT 2026**. The paper will be available soon.
 - **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
 - **Jan 2026** 🥇 Our team **AIST_ICT** achieved **1st place** in the <a href="https://anti-bad.github.io/leaderboards/">Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models</a> (IEEE SaTML 2026)! Congratulations to all team members!
+- **Jun 2025** 🎓 Graduated from Wuhan University. Honored as an **Outstanding Graduate** and received the **Outstanding Undergraduate Thesis** award.
 
 # 📝 Publications 
-
-<div class="pub-section-title">AI Safety in Vision-Language Models</div>
 
 <div class='paper-box'><div class='paper-txt'>
 <a href="https://arxiv.org/abs/2601.19210">Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
@@ -44,48 +43,19 @@ CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rect
 A novel adversarial attack method that targets the value features in transformer-based vision-language models to achieve precise local semantic manipulation, outperforming SOTA by 36% in success rate.
 </div></div>
 
-<div class="pub-section-title">Other Publications</div>
-
-<div class='paper-box'><div class='paper-txt'>
-<a href="https://arxiv.org/abs/2408.02891">Diverse Generation while Maintaining Semantic Coordination: A Diffusion-based Data Augmentation Method for Object Detection</a> <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
-<br>
-<strong>Sen Nie</strong>, Zhuo Wang, Xinxin Wang, Kun He
-<br>
-<em>27th International Conference on Pattern Recognition (ICPR)</em>, 2024
-<br>
-A novel data augmentation method using pre-trained diffusion models, featuring a Category Affinity Matrix for diversity enhancement and Surrounding Region Alignment for semantic preservation.
-</div></div>
-
-<div class='paper-box'><div class='paper-txt'>
-<a href="https://kns.cnki.net/kcms2/article/abstract?v=tsj_6yYi9c4SxtY4UHv4KfTiHoMOlhjUVqTdjOO1WXJjAJBpHxP3-vs64P2yk8mpTzvCLkyM3povZW4wTxWhvtnGSHuUgGN1TOfPRL1YzI9yGpNkBZqRPgVmYKrQUztuMjxCrzVkfmXEVZ6d0hvEhAsP-x80Eku3u1RT6HNLIaiC3uQR72kRVA==&uniplatform=NZKPT&language=CHS">Automatic Pricing and Replenishment Decisions for Vegetable Products Based on Price Elasticity</a> (in Chinese) <span class='show_paper_citations' data='User_ID:Paper_ID'></span>
-<br>
-<strong>Sen Nie</strong>, Xuanyin Pan, Haodong Qu
-<br>
-<em>Mathematical Modeling and Its Applications</em>, 2024
-<br>
-<strong>National First Prize (Top 0.5%)</strong> in CUMCM; Selected as a <strong>National Demonstration Paper</strong> (Top 3/All).
-</div></div>
-
-
 # 🎖 Awards
 
-- **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) (Top 0.5%) 
+- **National First Prize** (Top 0.5%) and **National Demonstration Paper** in CUMCM, for <a href="https://kns.cnki.net/kcms2/article/abstract?v=tsj_6yYi9c4SxtY4UHv4KfTiHoMOlhjUVqTdjOO1WXJjAJBpHxP3-vs64P2yk8mpTzvCLkyM3povZW4wTxWhvtnGSHuUgGN1TOfPRL1YzI9yGpNkBZqRPgVmYKrQUztuMjxCrzVkfmXEVZ6d0hvEhAsP-x80Eku3u1RT6HNLIaiC3uQR72kRVA==&uniplatform=NZKPT&language=CHS">Automatic Pricing and Replenishment Decisions for Vegetable Products Based on Price Elasticity</a>
 - **First Prize (2nd Place)**, Chinese Collegiate Computing Competition (Central South Region)
 - **First Prize**, Huazhong Cup Mathematical Modeling Contest (HCMCM) (Top 0.4%)
 - **Scholarships**: Lei Jun Computer Research Scholarship (Top 1%), NSFOCUS (LvMeng) Scholarship (Top 1%), First-Class Scholarship of Wuhan University (Top 5%) 
 
 # 🎖 Honors
 
-University-Wide Recognition:
 - Awarded the university’s highest graduation distinction (**Outstanding Graduate**)
 - Recognized for exemplary research (**Outstanding Undergraduate Thesis**)
 - Honored as a **Merit Student**​ for overall excellence (2022-2024)
 
-Leadership & Service:
-- Led class to be selected as a University-Level **“Top 10 Model Class”**​ (collective honor)
-- Recognized as an **Outstanding Student Leader​** for exceptional class management
-- Awarded **Outstanding Youth Volunteer​** for dedicated service
-- Honored as an **Outstanding Leader in Social Practice**​ for spearheading field visits to major tech firms (Huawei, ByteDance, Tencent, Sangfor), resulting in​ exemplary extracurricular impact
 
 
 # 📖 Education

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sen Nie"
-description              : "Master's student at ICT, CAS. Researching AI safety."
+description              : ""
 repository               : "Summu77/sennie.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sen Nie"
   avatar           : "images/1.jpg"
-  bio              : "ICT, CAS and State Key Laboratory of AI Safety"
+  bio              : "Institute of Computing Technology"
   location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=fKQnNncAAAAJ&hl=zh-CN"
   email            : "sen.nie@vipl.ict.ac.cn"

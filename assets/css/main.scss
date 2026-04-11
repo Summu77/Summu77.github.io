@@ -87,6 +87,17 @@
 
 }
 
+.pub-section-title {
+    margin: 2.2em 0 0.8em;
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid #d8dde3;
+    color: #1f2933;
+    font-size: 1.02em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1.4;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
