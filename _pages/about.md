@@ -16,6 +16,7 @@ My research is currently focused on the frontier of **AI Safety**. I'm passionat
 
 # 🔥 News
 
+- **May 2026** 🎉 Paper <a href="https://arxiv.org/abs/2601.19210">CSR</a> has been accepted by **ICML 2026**! Thanks to all co-authors!
 - **Mar 2026** 🎉 Our work **BIMM** has been accepted by **TCSVT 2026**. The paper will be available soon.
 - **Feb 2026** 🎉 Paper <a href="https://arxiv.org/abs/2511.20223">V-Attack</a> is accepted by **CVPR 2026**! Thanks to all co-authors!
 - **Jan 2026** 🥇 Our team **AIST_ICT** achieved **1st place** in the <a href="https://anti-bad.github.io/leaderboards/">Anti-BAD: An Anti-Backdoor Challenge for Post-Trained Large Language Models</a> (IEEE SaTML 2026)! Congratulations to all team members!
@@ -28,7 +29,7 @@ My research is currently focused on the frontier of **AI Safety**. I'm passionat
 <br>
 <strong>Sen Nie</strong>, Jie Zhang, Zhuo Wang, Shiguang Shan, Xilin Chen
 <br>
-<em>arXiv preprint arXiv:2601.19210</em>, 2026 (under review...)
+<em>International Conference on Machine Learning (<strong>ICML</strong>)</em>, 2026
 <br>
 CSR provides efficient, state-of-the-art adversarial robustness for VLMs by rectifying spectral inconsistencies during test time.
 </div></div>
