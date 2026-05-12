@@ -49,7 +49,7 @@ Contrastive Spectral Rectification (CSR) is an input-adaptive test-time defense 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <a href="https://ieeexplore.ieee.org/abstract/document/11481118">
-<img class="paper-image-contain" src="/images/papers/bimm-figure.jpg" alt="BIMM paper figure">
+<img class="paper-image-contain paper-image-bimm" src="/images/papers/bimm-figure.jpg" alt="BIMM paper figure">
 </a>
 </div>
 <div class='paper-box-text'>
@@ -67,7 +67,7 @@ Brain Inspired Masked Modeling (BIMM) learns video representations with paired v
 <div class='paper-box'>
 <div class='paper-box-image'>
 <a href="https://arxiv.org/abs/2511.20223">
-<img src="/images/papers/v-attack-figure.jpg" alt="V-Attack paper figure">
+<img class="paper-image-vattack" src="/images/papers/v-attack-figure.jpg" alt="V-Attack paper figure">
 </a>
 </div>
 <div class='paper-box-text'>

@@ -46,7 +46,6 @@
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
     gap: 1.5rem;
 
@@ -74,6 +73,16 @@
             background: #ffffff;
             box-sizing: border-box;
             padding: 5%;
+        }
+
+        img.paper-image-bimm {
+            aspect-ratio: 16 / 8.2;
+        }
+
+        img.paper-image-vattack {
+            aspect-ratio: 16 / 9.6;
+            background: #ffffff;
+            object-fit: contain;
         }
     }
     
@@ -153,12 +162,6 @@
 
     }
 
-
-}
-
-.paper-box.paper-box-last {
-    border-bottom: none;
-    padding-bottom: 0;
 }
 
 .pub-section-title {
@@ -242,6 +245,36 @@
 .education-card.education-card-last {
     border-bottom: none;
     padding-bottom: 0;
+}
+
+.author__urls,
+.author__urls_sm {
+    .fa-envelope,
+    .fa-envelope-open,
+    .fa-envelope-open-text {
+        color: #6b7280;
+    }
+
+    .fa-github {
+        color: #181717;
+    }
+
+    .fa-linkedin {
+        color: #0a66c2;
+    }
+
+    .fa-twitter-square,
+    .fa-x-twitter {
+        color: #000000;
+    }
+
+    .fa-weixin {
+        color: #07c160;
+    }
+
+    .fa-graduation-cap {
+        color: #4285f4;
+    }
 }
 
 $scroll_offset : 2em;
