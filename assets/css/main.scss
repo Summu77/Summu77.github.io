@@ -43,48 +43,122 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
+    gap: 1.5rem;
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        a {
+            display: block;
+            width: 100%;
+        }
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            width: 100%;
+            max-width: 440px;
+            border: 1px solid #e6e8eb;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
             object-fit: cover;
+        }
+
+        img.paper-image-contain {
+            aspect-ratio: 16 / 9;
+            object-fit: contain;
+            background: #ffffff;
+            box-sizing: border-box;
+            padding: 5%;
         }
     }
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        flex: 1 1 0;
+        min-width: 0;
+
+        .paper-title-link {
+            display: inline;
+            color: #1d4ed8;
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .paper-title-link:hover {
+            color: #1e40af;
+            text-decoration: underline;
+            text-decoration-color: rgba(30, 64, 175, 0.35);
+        }
+
+        .paper-venue {
+            color: #b45309;
+            font-style: normal;
+            font-weight: 600;
+        }
+
+        .paper-venue strong {
+            color: #92400e;
+        }
+
+        .paper-icon-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.38rem;
+            margin-left: 0.7rem;
+            padding: 0.22rem 0.68rem;
+            border: 1px solid #d0d7de;
+            border-radius: 999px;
+            background: #f8fafc;
+            color: #111827;
+            font-size: 0.92em;
+            font-weight: 600;
+            line-height: 1.2;
+            text-decoration: none;
+            vertical-align: middle;
+            transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease;
+        }
+
+        .paper-icon-link:hover {
+            background: #eef2ff;
+            border-color: #bfdbfe;
+            color: #1d4ed8;
+            text-decoration: none;
+        }
+
+        .paper-icon-link i {
+            font-size: 1.02em;
+        }
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 240px;
+            max-width: 36%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 0.5em;
+            max-width: calc(64% - 1.5rem);
             order: 2;
         }
 
     }
 
 
+}
+
+.paper-box.paper-box-last {
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 .pub-section-title {
@@ -96,6 +170,78 @@
     font-weight: 600;
     letter-spacing: 0.01em;
     line-height: 1.4;
+}
+
+.education-card {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.15rem 0;
+    border-bottom: 1px solid #efefef;
+
+    .education-card-logo {
+        flex: 0 0 90px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 90px;
+        height: 90px;
+        border-radius: 18px;
+        background: #ffffff;
+        box-shadow: inset 0 0 0 1px #eef2f7;
+        overflow: hidden;
+
+        img {
+            width: 90px;
+            height: 90px;
+            object-fit: contain;
+            background: #ffffff;
+        }
+
+        .education-logo-ict {
+            width: 150px;
+            height: 150px;
+            object-fit: contain;
+        }
+
+        .education-logo-whu {
+            width: 61px;
+            height: 61px;
+        }
+    }
+
+    .education-card-logo.education-card-logo-whu {
+        box-shadow: none;
+        background: transparent;
+    }
+
+    .education-card-body {
+        min-width: 0;
+    }
+
+    .education-card-school {
+        color: #111827;
+        font-weight: 700;
+        line-height: 1.35;
+    }
+
+    .education-card-meta {
+        color: #6b7280;
+        font-size: 0.95em;
+        line-height: 1.45;
+    }
+
+    .education-card-degree {
+        margin-top: 0.35rem;
+        color: #1f2937;
+        font-weight: 600;
+        line-height: 1.45;
+    }
+}
+
+.education-card.education-card-last {
+    border-bottom: none;
+    padding-bottom: 0;
 }
 
 $scroll_offset : 2em;
